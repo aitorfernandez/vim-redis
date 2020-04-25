@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.redis set filetype=redis
+au BufNewFile,BufRead *.redis setfiletype=redis
